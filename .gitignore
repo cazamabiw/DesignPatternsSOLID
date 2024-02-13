@@ -1,0 +1,21 @@
+# Maven target directory
+/target/
+
+# Eclipse IDE files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files
+.idea/
+
+# NetBeans IDE files
+nb-configuration.xml
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Maven specific files
+mvnw
+mvnw.cmd
